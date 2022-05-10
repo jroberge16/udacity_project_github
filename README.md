@@ -4,7 +4,7 @@
 5/10/2022
 
 ## Project Title
-Post Your Project to GitHub
+*Post Your Project to GitHub*
 
 ## Description
 This project is for Udacity and this repo contains a file that is able to perform data mining tasks on bike-share data
