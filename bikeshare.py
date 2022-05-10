@@ -1,6 +1,8 @@
 import time
 import pandas as pd
 import numpy as np
+
+# these dictionaries are used for refereces thoughout the python file
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
@@ -186,7 +188,7 @@ def user_stats(df):
 
 def get_header(df):
     """Displays the first five rows"""
-    
+
     print("Do you wish to see the first five rows? (yes/no)")
     user_answ = input()
     if user_answ == 'yes':
